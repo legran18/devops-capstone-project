@@ -13,5 +13,7 @@ Backend must validate token expiration
 ### Acceptance Criteria     
 gherkin 
 Given [Given a user has forgotten their password]
+
 When [When they request a password reset]
+
 Then [Then they receive an email with a reset link]
