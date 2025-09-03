@@ -11,7 +11,8 @@ Frontend form design is available in Figma
 Backend must validate token expiration      
 
 ### Acceptance Criteria     
-gherkin 
+gherkin
+
 Given [Given a user has forgotten their password]
 
 When [When they request a password reset]
