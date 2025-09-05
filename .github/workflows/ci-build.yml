@@ -32,7 +32,3 @@ on:
           python -m pip install --upgrade pip wheel
           pip install -r requirements.txt
 
-Copied!
-
-Wrap Toggled!
-You are now ready to move on to the next step.
